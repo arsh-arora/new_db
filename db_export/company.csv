@@ -1,0 +1,13 @@
+comp_code,company_name,location,industry,active,parent_comp_code,billing_account_id,default_sla_hours,data_retention_days,created_at,updated_at
+C001,Gould-Foster Ltd,"North Loriville, Mississippi",Manufacturing,t,,BA-514002,24,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C002,"Brown, Romero and Johnson Ltd","Barnesbury, Colorado",Finance,t,C001,BA-632084,36,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C003,"Coleman, Serrano and Martinez Ltd","Lake Courtney, Arkansas",Healthcare,t,,BA-173248,36,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C004,"Richards, Williams and Walker Ltd","West Robert, Ohio",Finance,t,,BA-967017,24,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C005,Duncan PLC Ltd,"North Bonnie, South Dakota",Logistics,t,,BA-164867,72,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C006,Watson PLC Ltd,"New Brianborough, New York",IT,t,C002,BA-403677,72,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C007,"Schmidt, Waters and Owens Ltd","Wardbury, Idaho",Finance,t,C003,BA-687472,36,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C008,"Chan, Miller and Evans Ltd","Goldenmouth, Maine",Finance,t,,BA-296997,48,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C009,"Baird, Wilson and Barnes Ltd","Edwinfort, Nebraska",Finance,t,,BA-691783,24,1095,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C010,Hayden Inc Ltd,"Matthewstad, Rhode Island",IT,t,,BA-657549,72,730,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C011,Riley-Bryant Ltd,"West Thomasland, Arkansas",Retail,t,,BA-575198,48,730,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
+C012,"Miles, Holland and Kaiser Ltd","Mitchellfurt, Texas",IT,t,,BA-832948,36,365,2025-09-19 19:30:03.531315+05:30,2025-09-19 19:30:03.531315+05:30
